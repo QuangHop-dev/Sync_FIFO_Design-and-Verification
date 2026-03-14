@@ -1,5 +1,3 @@
-// Explore VLSI Youtube Channel //
-
 `ifndef FIFO_COVERAGE_SV
 `define FIFO_COVERAGE_SV
 

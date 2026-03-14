@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //FIFO Environment
 
 class fifo_environment extends uvm_env;

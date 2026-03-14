@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //FIFO Scoreboard
 
 class fifo_scoreboard extends uvm_scoreboard;

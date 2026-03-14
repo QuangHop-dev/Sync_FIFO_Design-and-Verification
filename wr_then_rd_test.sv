@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //-------------------------------------------------------------------------
 //	//...W R I T E  THEN   R E A D   T E S T ...\\ 
 //write complete then read complete fifo_wr_then_rd_sequence

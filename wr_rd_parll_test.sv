@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //	//...W R I T E    R E A D  PARALLEL  T E S T ...\\ 
 //	fifo_write_read_test 
 //  fifo_wr_then_rd_sequence

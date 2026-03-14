@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //-------------------------------------------------------------------------
 //...W R I T E    T E S T ...\\ 
 //write into fifo    

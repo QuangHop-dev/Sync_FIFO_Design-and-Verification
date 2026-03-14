@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //	//...W R I T E    R E A D  BACK-TO-BACK  T E S T ...\\ 
 // write read back to back test
 // fifo_write_read_sequence : write and immediately read next

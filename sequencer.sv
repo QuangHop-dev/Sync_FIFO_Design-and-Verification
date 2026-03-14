@@ -1,7 +1,4 @@
- // Explore VLSI Youtube Channel //
-
-
-//Fifo Sequencer
+ //Fifo Sequencer
 
 class fifo_sequencer extends uvm_sequencer#(fifo_seq_item);
   

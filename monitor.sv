@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //Fifo Monitor
 
 `define MON_IF vif.MONITOR.monitor_cb

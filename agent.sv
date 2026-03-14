@@ -1,6 +1,4 @@
- // Explore VLSI Youtube Channel //
-
-//Fifo Agent
+ //Fifo Agent
 
 class fifo_agent extends uvm_agent;
   

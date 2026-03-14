@@ -1,6 +1,3 @@
- // Youtube : EXPLORE ELECTRONICS PLUS //
-
-
 `define DRIV_IF vif.DRIVER.driver_cb
 
 class fifo_driver extends uvm_driver#(fifo_seq_item);

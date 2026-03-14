@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //Fifo interface
 
 interface fifo_interface(input logic clk,rst);

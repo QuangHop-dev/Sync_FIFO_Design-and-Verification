@@ -1,6 +1,3 @@
- // Explore VLSI Youtube Channel //
-
-
 //-------------------------------------------------------------------------
 //write read back to back test 
 //fifo_sequence : random stimulus
